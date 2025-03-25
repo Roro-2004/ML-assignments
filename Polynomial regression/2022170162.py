@@ -72,4 +72,4 @@ def polynomial_regression_analysis(X, Y, max_degree=8, test_size=0.2, random_sta
 
     return mse_train, mse_test
 
-polynomial_regression_analysis(X, Y, 8, 0.2, 70)
+polynomial_regression_analysis(X, Y, 8, 0.2, 42)
